@@ -1,6 +1,6 @@
 # Marketing-Specific-Queries
 
-![Marketing data]{https://github.com/joyuwaoma/Marketing-Specific-Queries/blob/main/Marketing%20data.jpg}
+![Marketing data](https://github.com/joyuwaoma/Marketing-Specific-Queries/blob/main/Marketing%20data.jpg)
 
 ## Objective:
 
